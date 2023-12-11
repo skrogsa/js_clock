@@ -31,6 +31,28 @@ function helloTime() {
   helloTime()
 
 
+
+
+// Forsøk på å endre bilde etter tidspunkt
+
+//forsøk 1
+//   if (document.body) {
+//     document.body.background = "/images/evening.jpg";}
+// if (document.body){ 
+//     document.getElementById('Body').className="morning";
+//     }
+
+// forsøk 2
+  // if (document.body){ 
+        //     document.getElementById('Body').className="evening";
+        //     }
+
+//forsøk 3
+        // const display = document.getElementById('Body').className="evening";
+
+
+
+//Første kode for å lage beskjed på et tidspunkt
 // const theName = "Silje"
 
 // function goodDay() {
